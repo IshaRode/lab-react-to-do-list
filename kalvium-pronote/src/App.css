@@ -3,10 +3,13 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgb(205, 130, 31);
+  border-radius: 10px;
+  
 }
 
 input {
-  border: 2px solid yellow;
+  border: 2px solid rgb(0, 0, 0);
   font-size: 18px;
   padding: 8px;
   border-radius: 7px;
@@ -20,4 +23,8 @@ input {
 
 .delete {
   margin-left: 15px;
+}
+
+h1{
+  color: rgb(255, 254, 254);
 }
